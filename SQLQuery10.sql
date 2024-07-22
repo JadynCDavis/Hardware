@@ -1,0 +1,6 @@
+SELECT TOP (1000) [OwnerID]
+      ,[OwnerLastName]
+      ,[OwnerFirstName]
+      ,[OwnerPhone]
+      ,[OwnerEmail]
+  FROM [PET_DATABASE].[dbo].[PET_OWNER]
